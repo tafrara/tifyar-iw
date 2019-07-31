@@ -1,2 +1,4 @@
 # tifyar-iw
-wagi d asenfar n ulqa^d n tefyar s teqvaylit
+wagi d asenfar n ulqaḍ n tefyar s teqvaylit
+__________
+this corpus is released under cc0 licence
